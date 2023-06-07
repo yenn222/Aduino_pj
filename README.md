@@ -15,6 +15,8 @@
 
 ### 작품 사진*
 
+![images (1)](https://github.com/yenn222/Aduino_pj/assets/131340704/a5a7784e-f1b6-4c88-be54-09fae1af20ec)
+
 ## 동작 시나리오*
 
 ## 기대 효과
