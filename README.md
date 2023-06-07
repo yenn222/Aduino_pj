@@ -13,9 +13,10 @@ LED와 부저, mqtt를 활용하여 메뉴의 후보를 입력하면<br/>
 
 ## 완성 작품
 ### 작품 회로도
+<img width="604" alt="회로도" src="https://github.com/yenn222/Arduino_pj_menu/assets/131340704/029e8a0a-a94f-493b-9fe5-a7bd9ad7b0fd">
 
 ### 작품 사진
-
+![회로 사진](https://github.com/yenn222/Arduino_pj_menu/assets/131340704/2a969320-4088-4b73-97b3-70bad2fd9c44)
 
 ## 동작 시나리오
 1. 메뉴 입력 : 고민하는 메뉴를 입력받아 띄어쓰기로 구분( split() )하여 저장한다.<br/>
