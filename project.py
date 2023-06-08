@@ -37,9 +37,8 @@ for pin in LED:
     GPIO.setup(pin, GPIO.OUT)
     GPIO.output(pin, GPIO.LOW)
 
-# 부저 핀 설정
 GPIO.setup(BUZZER, GPIO.OUT)
-buzzer = GPIO.PWM(BUZZER, 440)  # PWM 주파수 설정 (옥타브)
+buzzer = GPIO.PWM(BUZZER, 440)
 
 try:
     
@@ -50,7 +49,7 @@ try:
         time.sleep(0.5)
             
    
-    buzzer.start(30)  # 부저의 음량 설정 (0 ~ 100)
+    buzzer.start(50) 
     time.sleep(0.5)
     buzzer.stop()
         
