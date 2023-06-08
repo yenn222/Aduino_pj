@@ -18,6 +18,9 @@ LED와 부저, mqtt를 활용하여 메뉴의 후보를 입력하면<br/>
 ### 작품 사진
 ![회로 사진](https://github.com/yenn222/Arduino_pj_menu/assets/131340704/2a969320-4088-4b73-97b3-70bad2fd9c44)
 
+### 동작 영상
+https://github.com/yenn222/Arduino_pj_menu/assets/131340704/66b86e54-fb26-4b18-857a-44d2302148d4
+
 ## 동작 시나리오
 1. 메뉴 입력 : 고민하는 메뉴를 입력받아 띄어쓰기로 구분( split() )하여 저장한다.<br/>
 2. 버튼 대기 : 메뉴 개수를 프린트하고 버튼 동작이 있을 때까지 대기한다.<br/>
